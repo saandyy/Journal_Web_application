@@ -1,0 +1,59 @@
+* {
+	margin: 0px;
+}
+
+#pamwrapper {
+	background-color: #f7f7f7;
+	width: 800px;
+	margin-right: auto;
+	margin-left: auto;
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #999999;
+	border-left-color: #999999;
+}
+#pamwrapper #logo {
+	height: 100px;
+	background-color: #FFFFFF;
+}
+a img {
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+#pamwrapper #navigation {
+	height: 35px;
+}
+#pamwrapper #headerImg {
+	background-image: url(../images/flowerHpImg.jpg);
+	height: 250px;
+}
+#pamwrapper #bodyArea #left {
+	width: 800px;
+	float: left;
+}
+#pamwrapper #bodyArea #footer {
+	clear: both;
+	height: 40px;
+	background-color: #e2e2e2;
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #333333;
+	margin: 20px;
+	background-color: #FFFFFF;
+}
+#pamwrapper #bodyArea #left li {
+	background-color: #FFFFFF;
+}
+#pamwrapper #bodyArea #left li {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #333333;
+	margin: 20px;
+	font-size: 14px;
+	background-color: #FFFFFF;
+}
